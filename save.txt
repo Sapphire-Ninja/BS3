@@ -1,0 +1,27 @@
+Index: 1	Turn: 1
+Players
+Player: Bob	200	200	100	50	15	5	0.95
+Cure_Wounds	20	200	light	False
+Fire_Storm	40	200	fire	True
+Fireball	25	100	fire	False
+Magic_Missile	5	30	force	False
+Thunder_Storm	50	250	lightning	True
+Player: Valos	150	150	100	100	80	10	0.5
+Cure_Wounds	20	200	light	False
+Magic_Missile	5	30	force	False
+Fireball	25	100	fire	False
+Player: Harry	400	400	20	20	85	30	0
+
+Enemies
+Monster: Goblin	30	0	10	2	5	Goblin
+Monster: Goblin_Shaman	50	0	15	0	10	Goblin
+Monster: Goblin_General	100	0	25	10	15	Goblin
+Monster: Goblin_King	300	91	50	25	30	Goblin
+Monster: Black_bear	1000	796	40	30	50	Beast
+
+Items
+Item: Small_Mana_Potion	mana	50	False	Quantity: 1
+Item: Small_Healing_Potion	healing	50	False	Quantity: 2
+Item: Holy_Grenade	attack	450	True	Quantity: 1
+
+End

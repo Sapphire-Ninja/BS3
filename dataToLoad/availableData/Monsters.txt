@@ -1,0 +1,6 @@
+Name                    HP      Attack      Defense     XP          Species
+Goblin                  30      10          2           5           Goblin
+Goblin_Shaman           50      15          0           10          Goblin
+Goblin_General          100     25          10          15          Goblin
+Goblin_King             300     50          25          30          Goblin
+Black_bear              1000    40          30          50          Beast

@@ -1,0 +1,6 @@
+Name                    Type        Value           Quantity    Aoe
+Great_Healing_Potion    healing     150             2           No
+Small_Healing_Potion    healing     50              2           No
+Small_Mana_Potion       mana        50              1           No
+Goddess's_Tear          elixir      9999            1           No
+Holy_Grenade            attack      450             1           Yes

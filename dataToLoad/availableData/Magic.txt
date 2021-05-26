@@ -1,0 +1,6 @@
+Name                Mana    Damage  Nature      AOE
+Fireball            25      100     fire        No
+Fire_Storm          40      200     fire        Yes
+Thunder_Storm       50      250     lightning   Yes
+Magic_Missile       5       30      force       No
+Cure_Wounds         20      200     light       No
